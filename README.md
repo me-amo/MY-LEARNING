@@ -1,2 +1,2 @@
-# my_learning
+# MY LEARNING
 Documenting my coding journey
